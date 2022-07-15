@@ -1,4 +1,4 @@
-#Pasos para seguir en git #
+con#Pasos para seguir en git #
 
 1. En tu proyecto iniciar git con el comando.
 ## git init ##
@@ -43,8 +43,8 @@ esto debe dar un blanco
 ## git pull main ## [para actualiar]
 
 14. Luego puedes borrar el rama en la que estabas trabajando.
-## git + nombre de rama + -b ##
-{sino borra forzar con -B}
+## git + nombre de rama + -d ##
+{sino borra forzar con -D}
 
 15. Para chequear el branch
 ## git branch ##
@@ -56,3 +56,8 @@ esto debe dar un blanco
 
 18. pull the main la última versión actualizada
 ## git pull the main ##
+
+19. La idea de git es crear un repositorio, subir un proyecto ahí, crear ramas de trabajos uno o varios,
+en seguida, cargar a las ramas todo lo que has trabajado, cuando ha sido revisado por un tercero
+hacer la fusión o merge, después de fucionar para que se convierta en la matriz principal, ese punto de tiempo jalar a tu ordenador para
+trabajar sobre esa versión, subir, revisar y bajar y de esa manera todo el proyecto.
