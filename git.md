@@ -54,5 +54,5 @@ esto debe dar un blanco
 17. para cambiar al main
 ## gt switch main ##
 
-18. pull the main la última versión actulizada
+18. pull the main la última versión actualizada
 ## git pull the main ##
